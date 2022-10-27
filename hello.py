@@ -28,4 +28,3 @@ if submit:
         st.success(f"{word} is the correct spelling!")
     else:
         st.error(f"Correction: {correct}")
-    # st.title(a)
